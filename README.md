@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Four card feature section coding challenge](./asset/design/desktop-preview.jpg)
 
 ## The challenge
 
@@ -14,4 +14,4 @@ Your users should:
 
 ## Deployment
 
-- 
+- https://trunten.github.io/fm-card-feature/
