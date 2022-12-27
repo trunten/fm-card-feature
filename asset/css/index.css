@@ -109,7 +109,6 @@ main {
 .card .icon {
     text-align: right;
     padding: 40px 15px 20px 0;
-    min-width: 10px;
 }
 
 .attribution { font-size: 11px; text-align: center; }
